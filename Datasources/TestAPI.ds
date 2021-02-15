@@ -1,0 +1,11 @@
+{"content": {
+    "datasourceType": 1,
+    "datasourceProperties": {
+        "baseUrl": "www.gmail.com",
+        "datasourceId": "9a567970-fc3f-4ebc-ac50-1ae1a8968345",
+        "id": "41ec3657-ed6b-4d9d-a565-bf63fa36eaf9"
+    },
+    "name": "TestAPI",
+    "id": "9a567970-fc3f-4ebc-ac50-1ae1a8968345",
+    "applicationId": "1f2c961b-aea1-479a-89b2-9c2347590c41"
+}}
